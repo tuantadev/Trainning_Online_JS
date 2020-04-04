@@ -1,0 +1,23 @@
+{
+  "name": "java-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main2.js",
+  "scripts": {
+    "start": "node main2.js",
+    "test": "echo \"Error: no test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuantadev/Trainning_Online_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuantadev/Trainning_Online_JS/issues"
+  },
+  "homepage": "https://github.com/tuantadev/Trainning_Online_JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
